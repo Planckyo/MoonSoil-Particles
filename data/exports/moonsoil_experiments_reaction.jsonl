@@ -1,0 +1,3 @@
+{"sample_id":"CE5-Chang_e_5","experiment_id":"reaction_001","water_yield":65.2,"conditions":"{\"temperature\": 1400, \"atmosphere\": \"H2\", \"pressure\": 101325, \"reaction_time\": 3600}"}
+{"sample_id":"Apollo11-10084","experiment_id":"reaction_002","water_yield":12.5,"conditions":"{\"temperature\": 1350, \"atmosphere\": \"H2\", \"pressure\": 101325, \"reaction_time\": 3600}"}
+{"sample_id":"LHS-1-2019","experiment_id":"reaction_003","water_yield":8.3,"conditions":"{\"temperature\": 1300, \"atmosphere\": \"H2\", \"pressure\": 101325, \"reaction_time\": 3600}"}

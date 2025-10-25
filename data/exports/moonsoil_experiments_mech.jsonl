@@ -1,0 +1,12 @@
+{"sample_id":"Apollo11-10084","experiment_id":"mech_000","compressive_strength":25.5,"friction_angle":35.2,"bulk_density":1.5,"context":"natural_state"}
+{"sample_id":"Apollo11-10084","experiment_id":"mech_001","compressive_strength":32.1,"friction_angle":38.7,"bulk_density":1.65,"context":"natural_state"}
+{"sample_id":"Apollo11-10084","experiment_id":"mech_002","compressive_strength":18.7,"friction_angle":33.1,"bulk_density":1.45,"context":"natural_state"}
+{"sample_id":"Apollo11-10084","experiment_id":"mech_003","compressive_strength":28.3,"friction_angle":36.5,"bulk_density":1.52,"context":"sintered"}
+{"sample_id":"Apollo14-14163","experiment_id":"mech_004","compressive_strength":35.2,"friction_angle":39.2,"bulk_density":1.67,"context":"sintered"}
+{"sample_id":"Apollo14-14163","experiment_id":"mech_005","compressive_strength":22.8,"friction_angle":34.8,"bulk_density":1.58,"context":"sintered"}
+{"sample_id":"Apollo14-14163","experiment_id":"mech_006","compressive_strength":19.5,"friction_angle":32.5,"bulk_density":1.42,"context":"sintered"}
+{"sample_id":"LHS-1-2019","experiment_id":"mech_007","compressive_strength":15.2,"friction_angle":30.1,"bulk_density":1.38,"context":"sintered"}
+{"sample_id":"LHS-1-2019","experiment_id":"mech_008","compressive_strength":12.8,"friction_angle":28.9,"bulk_density":1.35,"context":"sintered"}
+{"sample_id":"LHS-1-2019","experiment_id":"mech_009","compressive_strength":16.4,"friction_angle":31.2,"bulk_density":1.41,"context":"geopolymer"}
+{"sample_id":"LHS-1-2019","experiment_id":"mech_010","compressive_strength":14.1,"friction_angle":29.8,"bulk_density":1.37,"context":"geopolymer"}
+{"sample_id":"LHS-1-2019","experiment_id":"mech_011","compressive_strength":13.7,"friction_angle":30.5,"bulk_density":1.39,"context":"geopolymer"}

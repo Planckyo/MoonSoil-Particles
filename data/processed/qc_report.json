@@ -1,0 +1,75 @@
+{
+  "generated_at": "2025-10-25T09:06:27.251593+00:00",
+  "version": "1.0",
+  "unit_policy": "validation_enforced",
+  "totals": {
+    "samples": 5,
+    "thermal_records": 6,
+    "mech_records": 12,
+    "react_records": 3
+  },
+  "summary": {
+    "total_records": 5,
+    "total_features": 97,
+    "valid_records": 5,
+    "invalid_records": 0,
+    "total_errors": 0,
+    "total_warnings": 0,
+    "qc_flags_added": 0,
+    "range_violations": 0,
+    "chemistry_issues": 0,
+    "error_breakdown": {
+      "chemistry_errors": 0,
+      "unit_errors": 0,
+      "range_errors": 0,
+      "missing_field_errors": 0
+    }
+  },
+  "errors": [],
+  "warnings": [],
+  "is_valid": true,
+  "file_results": [
+    {
+      "data_type": "mechanical_experiments",
+      "total_records": 12,
+      "errors": [],
+      "error_count": 0,
+      "file_path": "D:\\桌面\\cursor工程\\LSMD\\MoonSoil-Particles\\MoonSoil-Particles\\data\\processed\\experiments_mech.parquet"
+    },
+    {
+      "data_type": "reaction_experiments",
+      "total_records": 3,
+      "errors": [],
+      "error_count": 0,
+      "file_path": "D:\\桌面\\cursor工程\\LSMD\\MoonSoil-Particles\\MoonSoil-Particles\\data\\processed\\experiments_reaction.parquet"
+    },
+    {
+      "data_type": "thermal_experiments",
+      "total_records": 6,
+      "errors": [],
+      "error_count": 0,
+      "file_path": "D:\\桌面\\cursor工程\\LSMD\\MoonSoil-Particles\\MoonSoil-Particles\\data\\processed\\experiments_thermal.parquet"
+    },
+    {
+      "data_type": "mechanical_experiments",
+      "total_records": 12,
+      "errors": [],
+      "error_count": 0,
+      "file_path": "D:\\桌面\\cursor工程\\LSMD\\MoonSoil-Particles\\MoonSoil-Particles\\data\\processed\\ml_mech.parquet"
+    },
+    {
+      "data_type": "thermal_experiments",
+      "total_records": 6,
+      "errors": [],
+      "error_count": 0,
+      "file_path": "D:\\桌面\\cursor工程\\LSMD\\MoonSoil-Particles\\MoonSoil-Particles\\data\\processed\\ml_thermal.parquet"
+    },
+    {
+      "data_type": "samples",
+      "total_records": 5,
+      "errors": [],
+      "error_count": 0,
+      "file_path": "D:\\桌面\\cursor工程\\LSMD\\MoonSoil-Particles\\MoonSoil-Particles\\data\\processed\\samples.parquet"
+    }
+  ]
+}

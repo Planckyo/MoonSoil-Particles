@@ -1,0 +1,6 @@
+{"sample_id":"Apollo11-10084","experiment_id":"thermal_000","thermal_conductivity":0.02,"temperature":300,"porosity":0.45,"bulk_density":1.5}
+{"sample_id":"Apollo14-14163","experiment_id":"thermal_001","thermal_conductivity":0.035,"temperature":350,"porosity":0.38,"bulk_density":1.65}
+{"sample_id":"LHS-1-2019","experiment_id":"thermal_002","thermal_conductivity":0.015,"temperature":280,"porosity":0.52,"bulk_density":1.45}
+{"sample_id":"Apollo11-10084","experiment_id":"thermal_003","thermal_conductivity":0.025,"temperature":320,"porosity":0.43,"bulk_density":1.52}
+{"sample_id":"Apollo14-14163","experiment_id":"thermal_004","thermal_conductivity":0.04,"temperature":370,"porosity":0.36,"bulk_density":1.67}
+{"sample_id":"LHS-1-2019","experiment_id":"thermal_005","thermal_conductivity":0.018,"temperature":290,"porosity":0.5,"bulk_density":1.47}

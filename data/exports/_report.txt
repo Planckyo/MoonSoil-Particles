@@ -1,0 +1,53 @@
+[REPORT] MoonSoil-Particles Data Report - 2025-10-25 17:06:27
+=============================================================
+
+==================================================
+[INFO] EXPORTS
+==================================================
+  _report.txt                        2.3 KB 2025-10-24 21:38:53
+  ml_mech.jsonl                     65.0 KB 2025-10-25 17:06:25
+  ml_mech.parquet                  117.5 KB 2025-10-25 17:06:25
+  ml_reactivity.jsonl               16.3 KB 2025-10-25 17:06:25
+  ml_reactivity.parquet            117.7 KB 2025-10-25 17:06:25
+  ml_thermal.jsonl                  32.4 KB 2025-10-25 17:06:25
+  ml_thermal.parquet               116.9 KB 2025-10-25 17:06:25
+  moonsoil_experiments_mech.jsonl     1.7 KB 2025-10-25 17:06:25
+  moonsoil_experiments_mech.parquet     4.4 KB 2025-10-25 17:06:25
+  moonsoil_experiments_reaction.jsonl      567 B 2025-10-25 17:06:25
+  moonsoil_experiments_reaction.parquet     3.3 KB 2025-10-25 17:06:25
+  moonsoil_experiments_thermal.jsonl      852 B 2025-10-25 17:06:25
+  moonsoil_experiments_thermal.parquet     4.3 KB 2025-10-25 17:06:25
+  moonsoil_particles.jsonl           7.7 KB 2025-10-25 17:06:25
+  moonsoil_particles.parquet        70.4 KB 2025-10-25 17:06:25
+  moonsoil_samples.jsonl             9.5 KB 2025-10-25 17:06:25
+  moonsoil_samples.parquet          38.5 KB 2025-10-25 17:06:25
+
+==================================================
+[INFO] JSONL COUNTS
+==================================================
+  ml_mech.jsonl                        12 lines
+  ml_reactivity.jsonl                   3 lines
+  ml_thermal.jsonl                      6 lines
+  moonsoil_experiments_mech.jsonl       12 lines
+  moonsoil_experiments_reaction.jsonl        3 lines
+  moonsoil_experiments_thermal.jsonl        6 lines
+  moonsoil_particles.jsonl              2 lines
+  moonsoil_samples.jsonl                5 lines
+  TOTAL                                49 lines
+
+==================================================
+[INFO] QC REPORT HEAD (30 lines)
+==================================================
+  Generated: 2025-10-25 09:06:27 UTC
+  Total samples: 5
+  Thermal records: 6
+  Mechanical records: 12
+  Reaction records: 3
+  Version: 1.0
+  Unit policy: validation_enforced
+  Summary:
+    Total records: 5
+    Total features: 97
+    QC flags added: 0
+    Range violations: 0
+    Chemistry issues: 0
